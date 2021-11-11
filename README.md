@@ -1,8 +1,7 @@
 ![hey](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
 
 Hey, I’m [Edwin Hobor](https://www.linkedin.com/in/edwin-hobor-6030b177/)
-- 👀 I’m interested in Java, Spring, Helm, Kafka
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Java, Spring, Kafka, K8s, Helm
 - 📫 How to reach me:
   - [Gmail](mailto:edwinhobor@gmail.com)
 
